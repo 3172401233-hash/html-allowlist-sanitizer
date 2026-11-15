@@ -1,0 +1,11 @@
+{
+  "name": "html-allowlist-sanitizer",
+  "version": "1.0.0",
+  "description": "Defensive HTML allowlist sanitizer with a spec-inspired parsing state machine",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
